@@ -1,5 +1,7 @@
 # Paulo Fernando
 
+**Desenvolvedor Back-end**
+
 Olá! Me chamo Paulo Fernando, tenho 21 anos e atualmente curso Análise e Desenvolvimento de Sistemas.
 
 Sou apaixonado por tecnologia, com interesse em diversas áreas do desenvolvimento de software. Gosto de aprender na prática, explorando, testando e construindo projetos reais como forma de evoluir constantemente.
